@@ -1,0 +1,23 @@
+{
+  "name": "paquete-sebas-learning-npm",
+  "version": "1.0.0",
+  "description": "Un paquete para aprender npm basado en midudev",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "aprendiendo",
+    "node",
+    "curso",
+    "midudev"
+  ],
+  "author": "Sebas Contr - scontrerasg7",
+  "license": "ISC",
+  "dependencies": {
+    "picocolors": "1.0.0"
+  },
+  "devDependencies": {
+    "standard": "17.1.0"
+  }
+}
